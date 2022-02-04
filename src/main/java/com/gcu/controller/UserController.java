@@ -29,6 +29,7 @@ import com.gcu.model.UserModel;
  */
 
 @Controller
+@RequestMapping("/")
 public class UserController {
 	
 	// DEPENDENCY INJECTION
